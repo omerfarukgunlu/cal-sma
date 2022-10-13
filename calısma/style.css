@@ -1,0 +1,38 @@
+html {
+    font-family: 'Lobster', cursive;
+    
+}
+
+.header {
+    color: #2192FF;
+    text-align: center;
+    background-color: #EDEDED;
+    margin: 0;
+    height: max-content;
+    padding: 50px;
+    font-size: 20px;
+}
+
+#links {
+    padding: 10px;
+    
+
+}
+
+.box {
+    margin:0 100px;
+    display: inline-block;
+    font-size: 25px;
+    
+
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+#hukuk {
+    font-size: 50px;
+}
+.edulist {
+    padding-left: 30 px;
+}
